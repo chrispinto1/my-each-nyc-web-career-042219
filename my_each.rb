@@ -7,8 +7,9 @@ def my_each(array) # put argument(s) here
   end
 end
 
-#sayings = ['hi', 'hello', 'bye', 'goodbye']
+sayings = ['hi', 'hello', 'bye', 'goodbye']
 my_each(sayings) do |phrase|
   return phrase
   end
 
+my_each(tas)
