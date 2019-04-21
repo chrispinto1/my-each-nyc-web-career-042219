@@ -9,6 +9,6 @@ end
 
 sayings = ['hi', 'hello', 'bye', 'goodbye']
 my_each(sayings) do |phrase|
-  puts phrase
+  return phrase
   end
 
