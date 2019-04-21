@@ -12,4 +12,7 @@ my_each(sayings) do |phrase|
   return phrase
   end
 
-my_each(tas)
+tas = ['arel', 'jon', 'logan', 'spencer']
+my_each(tas) do |phrase|
+  return phrase
+endß
