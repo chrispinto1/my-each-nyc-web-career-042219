@@ -15,4 +15,4 @@ my_each(sayings) do |phrase|
 tas = ['arel', 'jon', 'logan', 'spencer']
 my_each(tas) do |phrase|
   return phrase
-endß
+end
